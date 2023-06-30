@@ -10972,7 +10972,7 @@ textarea.form-control-lg {
     flex-wrap: wrap-reverse !important;
   }
   .justify-content-xxl-start {
-    justify-content: flex-start !important;
+    justify-content: center !important;
   }
   .justify-content-xxl-end {
     justify-content: flex-end !important;
@@ -11497,10 +11497,10 @@ textarea.form-control-lg {
     gap: 3rem !important;
   }
   .text-xxl-start {
-    text-align: left !important;
+    text-align: center !important;
   }
   .text-xxl-end {
-    text-align: right !important;
+    text-align: center !important;
   }
   .text-xxl-center {
     text-align: center !important;
